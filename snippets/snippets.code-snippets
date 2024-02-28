@@ -377,5 +377,35 @@
       "},"
     ],
     "description": "Inserts a Flex Row into Flex Col block"
-  }
+  },
+    "Product list price": {
+    "prefix": "plp",
+    "body": [
+      "  \"product-list-price\": {",
+      "     \"title\": \"${1}\",",
+      "     \"props\": {",
+      "       \"alwaysShow\": true ,",
+      "       \"blockClass\": \"list-price\"",
+      "      }",
+      "    }",
+      ""
+    ],
+    "description": "Inserts a SKU Selector block",
+    "scope": "json, jsonc"
+  },
+  "Product selling price": {
+    "prefix": "psp",
+    "body": [
+      "  \"product-selling-price\": {",
+      "     \"title\": \"${1}\",",
+      "     \"props\": {",
+      "       \"alwaysShow\": true ,",
+      "       \"blockClass\": \"selling-price\"",
+      "      }",
+      "    }",
+      ""
+    ],
+    "description": "Inserts a SKU Selector block",
+    "scope": "json, jsonc"
+  },
 }

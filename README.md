@@ -50,6 +50,8 @@ brendonguedes.vtex-snippets
 |     `vss→` | `VTEX SKU Selector`           |
 |  `vvideo→` | `VTEX Video`                  |
 | `viframe→` | `VTEX Iframe`                 |
+|     `plp→` | `VTEX product list price`     |
+|     `psp→` | `VTEX product selling price`  |
 
 ## Snippets Description
 
